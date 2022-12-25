@@ -1,0 +1,25 @@
+{
+  "name": "electron-vite-react",
+  "version": "1.0.0",
+  "description": "Project electron with reactJS-TailWinds",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ./src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PED248"
+  },
+  "keywords": [
+    "ReactJS",
+    "Electron",
+    "TailWinds",
+    "Node"
+  ],
+  "author": "Pedro Morocho",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
